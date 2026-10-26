@@ -1,0 +1,6 @@
+{
+  "name": "NetPulse",
+  "description": "Быстрая проверка подключения к интернету, пинга, скорости и средней задержки в реальном времени с минималистичным интерфейсом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

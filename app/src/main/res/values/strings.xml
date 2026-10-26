@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NetPulse</string>
+    <string name="title_network_monitor">Network Pulse</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_disconnected">No Connection</string>
+    <string name="status_testing">Testing…</string>
+    <string name="ping_label">Ping</string>
+    <string name="jitter_label">Jitter</string>
+    <string name="avg_latency_label">Average Latency</string>
+    <string name="download_speed_label">Download Speed</string>
+    <string name="upload_speed_label">Upload Speed</string>
+    <string name="start_test">Start Test</string>
+    <string name="stop_test">Stop</string>
+    <string name="realtime_monitor">Real-time Monitoring</string>
+</resources>
